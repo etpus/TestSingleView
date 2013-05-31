@@ -12,4 +12,5 @@
 
 @property (nonatomic, strong) UIButton *button;
 @property (nonatomic, strong) UIView *view;
+@property (nonatomic, strong) UITextField *textField;
 @end
